@@ -8,7 +8,7 @@ Backend-developer
 
 * 🌍  Проживаю в Ростове-на-Дону
 * ✉️   Вы можете связаться со мной [anastasia_rusako8a](https://t.me/anastasia_rusako8a)
-* 🚀  Сейчас я работаю над проектом [Новостная лента на laravel](http://github.com/Chertovka/chertovka.github.io)
+* 🚀  Сейчас я работаю над проектом [Новостная лента на laravel](https://github.com/Chertovka/news-feed)
 
 ### Skills
 
